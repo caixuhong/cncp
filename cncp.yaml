@@ -1,4 +1,4 @@
-name: mlcp
+name: cncp
 channels:
   - defaults
 dependencies:
@@ -46,4 +46,4 @@ dependencies:
       - six==1.16.0
       - tomli==2.0.1
       - typing-extensions==4.7.1
-prefix: /home/nclab/anaconda3/envs/mlcp
+prefix: /home/nclab/anaconda3/envs/cncp
