@@ -3,3 +3,5 @@ This is a Github repository for the INFOCOM'25 paper "Erasure Coding-based Non-c
 
 This network simulator is based on [ns.py](https://github.com/TL-System/ns.py), which is a pythonic discrete-event network simulator. 
 
+## Installation
+First, create a new conda environment (say, called `cncp`):
